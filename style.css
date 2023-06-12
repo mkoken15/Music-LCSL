@@ -12,7 +12,7 @@ body {
 }
 
 .header h1 {
-  font-family: 'Google Sans', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 22px;
   font-weight: bold;
   margin: 0;
@@ -71,9 +71,4 @@ body {
 .playlist-item {
   color: #fff;
   margin-bottom: 10px;
-}
-
-/* Styles Element Plus */
-.el {
-  font-family: 'Google Sans', Arial, sans-serif;
 }
