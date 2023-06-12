@@ -1,3 +1,10 @@
+import { createApp } from 'vue';
+import ElementPlus from 'element-plus';
+import 'element-plus/dist/index.css';
+
+const app = createApp(...);
+app.use(ElementPlus);
+
 // ID de la chaîne YouTube
 var channelId = "UC-m06mxfFvWCMs29uc1EN7Q";
 
