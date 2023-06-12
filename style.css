@@ -72,3 +72,8 @@ body {
   color: #fff;
   margin-bottom: 10px;
 }
+
+/* Styles Element Plus */
+.el {
+  font-family: 'Google Sans', Arial, sans-serif;
+}
